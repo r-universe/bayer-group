@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "adepro"]
 	path = adepro
-	url = https://github.com/bayer-group/bic-adepro
+	url = https://github.com/bayer-group/adepro
